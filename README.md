@@ -5,7 +5,8 @@
 ## Introduction
 
 bundesliga is a command line tool to display the current matchday and standings
-records of the German professional football leagues.
+records of the German professional football leagues. The information is
+gathered from the [OpenLigaDB](https://www.openligadb.de/) API.
 
 ## Installation
 

@@ -10,12 +10,12 @@ Gem::Specification.new do |spec|
   spec.authors     = ['Tobias Schäfer']
   spec.email       = ['github@blackox.org']
 
-  spec.summary     = 'Fussball Bundesliga current matchday and standings'
+  spec.summary     = 'Fussball Bundesliga current matchday and standings.'
   spec.description = <<~DESC
     #{spec.summary}
 
-    This gem provides Fussball Bundesliga current matchday and standings.
-    It uses the openligadb.de API to fetch data.
+    This gem provides Fussball Bundesliga current matchday and standings
+    records. It uses the OpenLigaDB.de API to fetch data.
 
   DESC
   spec.homepage    = 'https://github.com/tschaefer/bundesliga'
